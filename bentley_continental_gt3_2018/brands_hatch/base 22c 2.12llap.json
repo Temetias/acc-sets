@@ -1,0 +1,86 @@
+{
+	"carName": "bentley_continental_gt3_2018",
+	"basicSetup":
+	{
+		"tyres":
+		{
+			"tyreCompound": 0,
+			"tyrePressure": [ 57, 71, 58, 69 ]
+		},
+		"alignment":
+		{
+			"camber": [ 0, 0, 2, 2 ],
+			"toe": [ 27, 27, 55, 55 ],
+			"staticCamber": [ -3.6332228183746338, -3.6124320030212402, -2.4487488269805908, -2.4308738708496094 ],
+			"toeOutLinear": [ 0.00038434701855294406, 0.00038435368333011866, -0.00063194683752954006, -0.00063185486942529678 ],
+			"casterLF": 23,
+			"casterRF": 23,
+			"steerRatio": 2
+		},
+		"electronics":
+		{
+			"tC1": 3,
+			"tC2": 0,
+			"abs": 4,
+			"eCUMap": 0,
+			"fuelMix": 0,
+			"telemetryLaps": 0
+		},
+		"strategy":
+		{
+			"fuel": 28,
+			"nPitStops": 0,
+			"tyreSet": 1,
+			"frontBrakePadCompound": 0,
+			"rearBrakePadCompound": 0,
+			"pitStrategy": [
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 50, 56, 50, 54 ]
+					},
+					"tyreSet": 2,
+					"frontBrakePadCompound": 1,
+					"rearBrakePadCompound": 1
+				}
+			],
+			"fuelPerLap": 2.150421142578125
+		}
+	},
+	"advancedSetup":
+	{
+		"mechanicalBalance":
+		{
+			"aRBFront": 4,
+			"aRBRear": 2,
+			"wheelRate": [ 9, 9, 11, 11 ],
+			"bumpStopRateUp": [ 5, 5, 4, 4 ],
+			"bumpStopRateDn": [ 0, 0, 10, 10 ],
+			"bumpStopWindow": [ 5, 5, 55, 55 ],
+			"brakeTorque": 20,
+			"brakeBias": 35
+		},
+		"dampers":
+		{
+			"bumpSlow": [ 15, 15, 18, 18 ],
+			"bumpFast": [ 14, 14, 15, 15 ],
+			"reboundSlow": [ 20, 20, 24, 24 ],
+			"reboundFast": [ 25, 25, 20, 20 ]
+		},
+		"aeroBalance":
+		{
+			"rideHeight": [ 1, 6, 20, 18 ],
+			"rodLength": [ 4.7481026649475098, 4.7481026649475098, -7.8459677696228027, -7.8459677696228027 ],
+			"splitter": 0,
+			"rearWing": 7,
+			"brakeDuct": [ 3, 4 ]
+		},
+		"drivetrain":
+		{
+			"preload": 5
+		}
+	},
+	"trackBopType": 28
+}
