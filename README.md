@@ -19,3 +19,5 @@ Pull requests are not open. You can contact me [via Discord](https://discordapp.
 
 ## Ownership
 These are public for a reason. You can use them, modify them and do whatever. Just don't go and be "that guy" who claims the sets are theirs and posts them behind a paywall.
+
+Also, it's always nice to get feedback :)
