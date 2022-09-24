@@ -11,7 +11,7 @@ Where:
 Grade indicates a rough estimate of the quality of the set:
 - `0`: Mostly only pressures fixed and that's it. Literally aggro preset stuff
 - `1`: Usually includes some basic aero and mechanical changes but overall not refined
-- `2`: Can be considered a "complete" set but often need verification / has some parts that are work in progress
+- `2`: Can be considered a "complete" set but often needs verification / has some parts that are work in progress
 - `3`: A set that has been proven and is considered complete. These are sets that I've likely ran in a league environment
 
 ## Contributing
