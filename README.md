@@ -15,7 +15,7 @@ Grade indicates a rough estimate of the quality of the set:
 - `3`: A set that has been proven and is considered complete. These are sets that I've likely ran in a league environment
 
 ## Contributing
-Pull requests are not open. You can contact me [via Discord](discordapp.com/users/Temetias#5870) (Temetias#5870) for collaboration, chats and suggestions.
+Pull requests are not open. You can contact me [via Discord](https://discordapp.com/users/Temetias#5870) (Temetias#5870) for collaboration, chats and suggestions.
 
 ## Ownership
 These are public for a reason. You can use them, modify them and do whatever. Just don't go and be "that guy" who claims the sets are theirs and posts them behind a paywall.
