@@ -1,5 +1,7 @@
-GO*
-GHX*
-POPO*
-LA*
-FOCH*
+GO*.json
+GHX*.json
+POPO*.json
+LA*.json
+FOCH*.json
+*.ld
+*.ldx
