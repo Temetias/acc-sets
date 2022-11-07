@@ -1,5 +1,5 @@
 # acc-sets
-My public Assetto Corsa Competizione setups
+My public Assetto Corsa Competizione setups.
 
 ## File format
 Example:
